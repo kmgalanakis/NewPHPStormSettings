@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Views but no Vendor" />
     <option name="defaultScopeName" value="Views but no Vendor" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Views but no Vendor" />
   </component>
 </application>
