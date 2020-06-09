@@ -6,7 +6,11 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="e93c6340-4c1c-42b9-b0ee-9061b5065c60" name="Remote PHP 7.2" home="vagrant://DATA" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php/20190902/xdebug.so">
+      <interpreter id="e93c6340-4c1c-42b9-b0ee-9061b5065c60" name="Remote PHP 7.2" home="vagrant://DATA" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php/20170718/xdebug.so">
+        <configuration_options>
+          <configuration_option name="display_startup_errors" value="on" />
+          <configuration_option name="error_reporting" value="22527" />
+        </configuration_options>
         <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VAGRANT_FOLDER="D:/OTGS/vagrant-local" />
       </interpreter>
       <interpreter id="6891a460-289a-4ea3-8b15-a00087ddf65e" name="PHP 7.2" home="D:\OTGS\PHP\php.exe" debugger_id="php.debugger.XDebug" />
