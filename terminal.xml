@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;C:\Program Files\ConEmu\ConEmu64.exe&quot;" />
+    <option name="myShellPath" value="&quot;cmd.exe&quot; /k &quot;&quot;c:\Progra~1\ConEmu\ConEmu\CmdInit.cmd&quot; &amp;&amp; &quot;c:\Progra~1\ConEmu\ConEmu\clink\clink_x64.exe&quot; inject&quot; " />
   </component>
 </application>
