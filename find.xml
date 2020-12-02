@@ -12,9 +12,9 @@
     <mask>*.ctp</mask>
     <mask>*.phtml</mask>
     <mask>*.scss</mask>
-    <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
