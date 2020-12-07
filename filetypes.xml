@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".browserlist" type="PLAIN_TEXT" />
       <mapping pattern="configuration-errors-list-table.phtml" type="PLAIN_TEXT" />
+      <mapping pattern="valid_xml_config_file" type="XML" />
     </extensionMap>
   </component>
 </application>
