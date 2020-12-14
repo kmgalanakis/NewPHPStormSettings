@@ -4,6 +4,7 @@
       <phpcs_by_interpreter interpreter_id="e93c6340-4c1c-42b9-b0ee-9061b5065c60" standards="MySource;NeutronStandard;PEAR;PHPCompatibility;PHPCompatibilityParagonieRandomCompat;PHPCompatibilityParagonieSodiumCompat;PHPCompatibilityWP;PSR1;PSR12;PSR2;Squiz;Toolset;VariableAnalysis;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP-Go;WordPressVIPMinimum;Zend" tool_path="/srv/www/otgs10/public_html/wp-content/plugins/wp-views/vendor/bin/phpcs" timeout="30000" />
     </phpcs_settings>
   </component>
+  <component name="PhpDebugGeneral" xdebug_resolve_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="e93c6340-4c1c-42b9-b0ee-9061b5065c60" name="Remote PHP 7.2" home="vagrant://DATA" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php/20170718/xdebug.so">
