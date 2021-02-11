@@ -10,7 +10,7 @@
       <interpreter id="e93c6340-4c1c-42b9-b0ee-9061b5065c60" name="Remote PHP 7.2" home="vagrant://DATA" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php/20170718/xdebug.so">
         <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VAGRANT_FOLDER="D:/OTGS/vagrant-local" />
       </interpreter>
-      <interpreter id="6891a460-289a-4ea3-8b15-a00087ddf65e" name="PHP 7.2" home="D:\OTGS\PHP\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="6891a460-289a-4ea3-8b15-a00087ddf65e" name="PHP 7.2" home="D:\OTGS\PHP\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="D:\OTGS\PHP\ext\php_xdebug-2.6.0-7.2-vc15-nts-x86_64.dll" />
       <interpreter id="5e328f04-dfc8-4dd3-b063-50cb9ca24f22" name="Remote PHP 7.2 (DS)" home="vagrant://DATA" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php/20170718/xdebug.so">
         <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VAGRANT_FOLDER="D:/OTGS/vagrant-local" />
       </interpreter>
