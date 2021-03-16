@@ -1,6 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="ToolsetCommon" type="AUTO_DETECTED" />
       <mapping pattern=".browserlist" type="PLAIN_TEXT" />
       <mapping pattern="configuration-errors-list-table.phtml" type="PLAIN_TEXT" />
       <mapping pattern="valid_xml_config_file" type="XML" />
